@@ -55,4 +55,4 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 - [Ionicons](https://ionicons.com/)
 ---
 ## Authors
-- [Asmau Aminu](https://github.com/Asmau)
+- [Asmau Aminu](https://github.com/asmeeamin)
